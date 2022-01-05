@@ -92,10 +92,15 @@ Upon finishing the project, we manage to develop system that are able to search 
   ![image](https://user-images.githubusercontent.com/55356736/148233294-44aa94c9-c57b-46be-a821-03d8f64cad11.png)
 
 5.0 Transition Plan
+
 The staff from Realify Sdn. Bhd. will provide fully support when required. The staff provide the supports for the system are shown as below:
+
 i.	Provide system maintenance
+
 ii.	Handling errors and updates of system
+
 iii.	Provide user guidelines for Bigsoft int. staff in using the system.
+
 iv.	Report the user feedback to the management in order to improve the system
 
 ## Close Contract
