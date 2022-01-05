@@ -98,7 +98,7 @@ iii.	Provide user guidelines for Bigsoft int. staff in using the system.
 iv.	Report the user feedback to the management in order to improve the system
 
 ## Close Contract
-![image](https://user-images.githubusercontent.com/55356736/148233423-ae45ca73-3f24-463a-8fe4-15b3795adb26.png)
+![image](https://user-images.githubusercontent.com/55356736/148234397-928d8638-aa70-4dbd-b9cf-9e791a391a56.png)
 
 ## F. Project Presentation
 # Presentation Video
