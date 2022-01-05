@@ -11,7 +11,7 @@ Customer: BigSoft International Sdn. Bhd.
 Project Name: Computer Vision Image Similarity Search for Trademark
 
 Team members: 
-1. Krishnar Ram A/L Murugan (B031910013)
+1. Krishnar Ram A/L Murugan (B031910013) - Project Manager
 2. Yoong Cheng Nee (B031910119)
 3. Ding Xue Wing (B031910353)
 
