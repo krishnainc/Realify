@@ -84,6 +84,7 @@ Upon finishing the project, we manage to develop system that are able to search 
 ![image](https://user-images.githubusercontent.com/55356736/148233201-49c0d6d9-ebee-414d-a7b5-7e6796aa0b27.png)
 
 4.0 Original and Actual Budget
+
   4.1 Cost Estimation:
   ![image](https://user-images.githubusercontent.com/55356736/148233258-a967e7cd-3a8c-4358-8423-0e0fc02e7bf5.png)
 
