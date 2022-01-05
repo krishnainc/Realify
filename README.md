@@ -31,7 +31,7 @@ The WBS is constructed to breakdown the schedule of the project into several par
 ![image](https://user-images.githubusercontent.com/55356736/148226237-d43507ec-e289-42c9-980b-509124dd6499.png)
 
 ## Risk Identification Chart
-![image](https://user-images.githubusercontent.com/55356736/148227794-6ff87695-6b07-4c61-b0a4-1f4812e3c047.png)
+![image](https://user-images.githubusercontent.com/55356736/148233754-7919c924-a5fa-4c59-a876-0b3910d6afd0.png)
 
 ## Responsibility Assignment Matrices (RAM)
 ![image](https://user-images.githubusercontent.com/55356736/148228082-e656bcfb-762a-4b3f-a218-2b3da7c06e7b.png)
