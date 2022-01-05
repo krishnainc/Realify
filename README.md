@@ -10,9 +10,10 @@ Customer: BigSoft International Sdn. Bhd.
 
 Project Name: Computer Vision Image Similarity Search for Trademark
 
-Team members: Krishnar Ram A/L Murugan (B031910013)
-              Yoong Cheng Nee (B031910119)
-              Ding Xue Wing (B031910353)
+Team members: 
+1. Krishnar Ram A/L Murugan (B031910013)
+2. Yoong Cheng Nee (B031910119)
+3. Ding Xue Wing (B031910353)
 
 Objectives:
 1. To develop an artificial intelligence system that are able to search for the similarity of the trademark.
