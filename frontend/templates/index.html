@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>©Symbiote</title>
+    <link rel="shortcut icon" href="./static/Logo1.png">
+    <link href="https://fonts.googleapis.com/css2?family=Muli:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./static/style1.css">
+</head>
+<body>
+
+<form action="/after" method="post" enctype="multipart/form-data">
+    <label for="img">Select image:</label>
+    <input type="file" name="file">
+    <input type="submit" value = "Upload">
+</form>
+
+        {% if babi %}
+            <a href="/"><img width="400px" height="200px" alt="hhhh" style="float: left; height:200px;" src="../static/my_image.png"></a> 
+        {% else %} 
+            <a href="/"><img width="40px" alt="?" style="float: left;" src="../static/placeholder.jpg"></a>
+        {% endif %}
+</body>
+</html>
