@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>©Symbiote</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="../static/Logo1.png">
+    <link rel="stylesheet" href="../static/uploadimage.css">
+  </head>
+  <body>
+
+<h1>Upload Your Photo</h1>
+
+<form action = "/after" method = "post" enctype="multipart/form-data">  
+  <input type="file" name="file" />  
+  
+  <input type = "submit" value="Upload" style="position: relative;left:250px; top:250px;">  
+  {% with messages = get_flashed_messages() %}
+    {% if messages %} 
+        {% for message in messages %} 
+            <h3>{{ message }}</h3>
+        {% endfor %}
+    {% endif %} 
+  {% endwith %}
+</form>  
+
+<h1 style="position:relative;top:400px;">Similar Versions</h1>
+        {% if babi %}
+            <a href="/"><img width="1500px" height="200px" alt="hhhh" style="position:relative;top:500px;left:200px" src="../static/my_image.png"></a> 
+        {% else %} 
+            <a href="/"><img width="200px" alt="?" style="position:relative;top:500px;left:840px" src="../static/cool.png"></a>
+        {% endif %}
+
+
+
+<script src="../static/upload.js"></script>
+
+</body>
+</html>
