@@ -64,10 +64,14 @@ The WBS is constructed to breakdown the schedule of the project into several par
 
 # D. Executing the project
 ## Project Design and Result
+![image](https://user-images.githubusercontent.com/26716040/148758054-f705dbae-9462-4b63-a742-c0a2d45b0220.png)
+![image](https://user-images.githubusercontent.com/26716040/148758303-97b924ce-613c-4d0c-8877-cd7fcebddfb8.png)
+
 
 
 
 ## Project Coding
+
 
 
 # E. Completing the project
