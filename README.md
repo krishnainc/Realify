@@ -71,6 +71,8 @@ The WBS is constructed to breakdown the schedule of the project into several par
 
 
 ## Project Coding
+![image_2022-01-10_19-27-04](https://user-images.githubusercontent.com/26716040/148759035-de4dec38-ea8b-4eb3-9437-a16c8ca1e990.png)
+![image_2022-01-10_19-28-13](https://user-images.githubusercontent.com/26716040/148759064-e62316d7-c188-4873-ae5f-f75e677d78ab.png)
 
 
 
